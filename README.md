@@ -16,7 +16,7 @@
 - [烤羊排](recipes/烤羊排.md)
 - [Top Round Roast](recipes/Top%20Round%20Roast.md)
 - [韓式烤牛仔骨](recipes/韓式烤牛仔骨.md)
-- [燉牛肉](recipes/燉牛肉.md)
+- [坦家燉牛肉](recipes/坦家燉牛肉.md)
 
 ### 雞肉
 
@@ -24,7 +24,7 @@
 - [Buffalo Wings](recipes/Buffalo%20Wings.md)
 - [照燒雞腿排](recipes/照燒雞腿排.md)
 - [雞排](recipes/雞排.md)
-- [馬各廚房炸雞腿](recipes/馬各廚房炸雞腿.md)
+- [馬蹄廚房炸雞腿](recipes/馬蹄廚房炸雞腿.md)
 - [蔥油雞](recipes/蔥油雞.md)
 - [大盤雞](recipes/大盤雞.md)
 - [日式咖哩](recipes/日式咖哩.md)
